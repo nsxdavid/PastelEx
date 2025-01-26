@@ -6,7 +6,7 @@
 Simplify coloring console text with PastelEx, inspired by [Pastel](https://github.com/silkfire/Pastel) and [Crayon](https://github.com/riezebosch/crayon).
 
 Tested on Windows and Linux terminals.
-Download on [nuget](https://www.nuget.org/packages/PastelEx)!
+~~Download on [nuget](https://www.nuget.org/packages/PastelEx)!~~
 
 ## 🎨 Inspiration
 This library simplifies the process of applying ANSI color codes to strings, mitigating several potential drawbacks:
